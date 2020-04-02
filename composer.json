@@ -1,0 +1,13 @@
+{
+    "name": "fiuza/exemplo_php",
+    "description": "Exerc\u0000cio de PHP com banco de dados para lecionar",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel Fiuza",
+            "email": "daniel.fiuza@hotmail.com"
+        }
+    ],
+    "require": {}
+}
